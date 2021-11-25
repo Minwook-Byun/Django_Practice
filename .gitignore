@@ -1,1 +1,6 @@
 a.py
+askcompany/askcompany/urls.py
+askcompany/askcompany/__pycache__/urls.cpython-39.pyc
+askcompany/db.sqlite3
+askcompany/boramBlog/__pycache__/views.cpython-39.pyc
+askcompany/boramBlog/__pycache__/admin.cpython-39.pyc
